@@ -9,39 +9,39 @@ urgent_on_bell = true
 [colors]
 
 # special
-foreground      = #cacecd
-foreground_bold = #cacecd
-cursor          = #cacecd
-background      = #111213
+foreground      = #f1f1f1
+foreground_bold = #f1f1f1
+cursor          = #f1f1f1
+background      = #212121
 
 # black
-color0  = #000000
-color8  = #000000
+color0  = #212121
+color8  = #424242
 
 # red
-color1  = #c22832
-color9  = #c22832
+color1  = #c30771
+color9  = #fb007a
 
 # green
-color2  = #8ec43d
-color10 = #8ec43d
+color2  = #10a778
+color10 = #5fd7af
 
 # yellow
-color3  = #e0c64f
-color11 = #e0c64f
+color3  = #a89c14
+color11 = #f3e430
 
 # blue
-color4  = #43a5d5
-color12 = #43a5d5
+color4  = #008ec4
+color12 = #20bbfc
 
 # magenta
-color5  = #8b57b5
-color13 = #8b57b5
+color5  = #523c79
+color13 = #6855de
 
 # cyan
-color6  = #8ec43d
-color14 = #8ec43d
+color6  = #20a5ba
+color14 = #4fb8cc
 
 # white
-color7  = #eeeeee
-color15 = #ffffff
+color7  = #d9d9d9
+color15 = #f1f1f1
