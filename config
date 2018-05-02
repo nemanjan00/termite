@@ -8,11 +8,10 @@ urgent_on_bell = true
 
 [colors]
 
-# special
-foreground      = #f1f1f1
+foreground      = #16A49D
 foreground_bold = #f1f1f1
-cursor          = #f1f1f1
-background = rgba(38, 38, 38, 0.9)
+cursor          = #9D43A0
+background = rgba(22, 9, 37, 0.95)
 
 # black
 color0  = #212121
@@ -27,7 +26,7 @@ color2  = #10a778
 color10 = #5fd7af
 
 # yellow
-color3  = #a89c14
+color3  = #a49d16
 color11 = #f3e430
 
 # blue
